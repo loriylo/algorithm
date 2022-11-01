@@ -4,4 +4,5 @@
 * Sum series - sum_integration.ipynb
    * 2sum / 3sum / 4sum
    
-* Recursion series
+* Recursion series - recursion_basic.ipynb:
+   * pascal triangle / fibonacci
