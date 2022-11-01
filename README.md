@@ -6,3 +6,6 @@
    
 * Recursion series - recursion_basic.ipynb:
    * pascal triangle / fibonacci
+* memoization
+
+* dynamic programming
