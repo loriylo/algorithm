@@ -6,5 +6,5 @@
    
 * Recursion series - recursion_basic.ipynb:
    * recursion / memoization 
-   * pascal triangle / fibonacci / climbStairs
+      * pascal triangle / fibonacci / climbStairs
 
