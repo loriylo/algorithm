@@ -5,8 +5,6 @@
    * 2sum / 3sum / 4sum
    
 * Recursion series - recursion_basic.ipynb:
-   * pascal triangle / fibonacci
-* memoization
-   * climbstairs (leetcode70) 
+   * recursion / memoization 
+   * pascal triangle / fibonacci / climbStairs
 
-* dynamic programming
