@@ -6,6 +6,9 @@
 * Recursion series - recursion_basic.ipynb:
    * recursion / memoization 
       * pascal triangle / fibonacci / climbStairs
-* pattern printing - print_pattern.ipynb:
+* pattern printing - print_pattern.ipynb
+* basic numbers check - number_check.ipynb
+   * armstrong number / all the factor of a number / perfect number / gcd / lcm 
+
    
 
